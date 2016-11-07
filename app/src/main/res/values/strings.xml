@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gap</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_url_text_hand"></string>
+    <string name="submit">Submit</string>
+    <string name="next">Next</string>
+    <string name="invalid_url_address">Please, provide valid URL address</string>
+</resources>
